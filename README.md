@@ -50,7 +50,7 @@ I run a dedicated home server environment to test container orchestration, zero-
 * **Ingress & Delivery:** [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) for secure ingress, OCI Email Delivery for transactional messaging
 * **Container & System Admin:** [Arcane](https://github.com/arcane-app/arcane), [CasaOS](https://casaos.io/), [Termix](https://github.com/termix-dev/termix)
 * **Self-Hosted Productivity & Services:** 
-  * 🚘 [LubeLogger](https://github.com/hweimer/lubelogger) *(Vehicle maintenance tracking)*
+  * 🚘 [LubeLogger](https://github.com/hargata/lubelog) *(Vehicle maintenance tracking)*
   * 📝 [AFFiNE](https://github.com/toeverything/AFFiNE) *(Knowledge base & personal notes)*
   * 🎬 [Jellyfin](https://jellyfin.org/) *(Media orchestration)*
   * 📊 [Actual Budget](https://actualbudget.com/) *(Personal finance)*
