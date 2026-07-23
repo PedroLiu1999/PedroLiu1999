@@ -13,7 +13,7 @@
 * 🤔 **I’m looking for help with:** Cost-effective token/inference routing strategies for hosting live agentic frameworks like [OpenClaw](https://github.com/openclaw/openclaw) and Nous Research [Hermes Agent](https://github.com/NousResearch/hermes-agent).
 * 💬 **Ask me about:** Self-hosted homelabs, Cloudflare Zero Trust tunnels, local AI via Ollama, PowerShell/ETL automation, and Power BI reporting.
 * 📫 **How to reach me:** [Email Me](mailto:a765581777@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/peter-liu-170524168/)
-* ⚡ **Fun fact:** I am good ay playing yo-yo 🪀.
+* ⚡ **Fun fact:** I am good at playing yo-yo 🪀.
 
 ---
 
