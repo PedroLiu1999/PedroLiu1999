@@ -48,7 +48,7 @@
 I run a dedicated home server environment to test container orchestration, zero-trust networking, local AI models, and data pipelines:
 
 * **Ingress & Delivery:** [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) for secure ingress, OCI Email Delivery for transactional messaging
-* **Container & System Admin:** [Arcane](https://github.com/arcane-app/arcane), [CasaOS](https://casaos.io/), [Termix](https://github.com/termix-dev/termix)
+* **Container & System Admin:** [Arcane](https://github.com/getarcaneapp/arcane), [CasaOS](https://casaos.io/), [Termix](https://github.com/Termix-SSH/Termix)
 * **Self-Hosted Productivity & Services:** 
   * 🚘 [LubeLogger](https://github.com/hargata/lubelog) *(Vehicle maintenance tracking)*
   * 📝 [AFFiNE](https://github.com/toeverything/AFFiNE) *(Knowledge base & personal notes)*
